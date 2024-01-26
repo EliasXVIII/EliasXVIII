@@ -6,7 +6,7 @@
 
 - 👀 Me he dedicado desde hace ya 10 años en el mundo IT trabajando en empresas como Samsung - IBM entre otras como Técnico en sistemas..
 
-- 🌱 Actualmente me encuentro estudiando un BootCamp para FullStack Developer con herramientas como Python, MySql, Javascript, GitHub, HTML Y Css.
+- 🌱 Actualmente me encuentro estudiando un BootCamp de 1000HS  para FullStack Developer con herramientas como Python, MySql, Javascript, GitHub, HTML Y Css, con las cuales trabajaremos en proyectos reales. 
 
 - 📫 Pueden conocer mas sobre mi en Linkedin :arrow_right: https://www.linkedin.com/in/elias-javier-riquelme-b62655297/
 
