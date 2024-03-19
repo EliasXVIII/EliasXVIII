@@ -13,6 +13,22 @@
 
 - 😄 Pronouns: @EliasXVIII
 
+  ### Vista de algunos proyectos destacados.
+
+  ## Eco Pop Marketplace Hackaton F5 Globant
+  ![2](https://github.com/EliasXVIII/sixtage/blob/main/ImgReadme/Propuesta.png)
+   - Diploma por el 2do puesto
+  ![3](https://github.com/EliasXVIII/sixtage/blob/main/ImgReadme/El%C3%ADas%20Javier%20Riquelme%20Antongnoli%20-%20Finalista%20-%20Diploma%20HackathonF5%20022024.png)
+
+## Market Sixtage
+
+### - Desktop
+![Desktop](https://github.com/EliasXVIII/sixtage/blob/main/ImgReadme/imagen1Sixtage.png)
+### - Login
+![Login](https://github.com/EliasXVIII/sixtage/blob/main/ImgReadme/login.png)
+### - Footer
+![Footer](https://github.com/EliasXVIII/sixtage/blob/main/ImgReadme/footer.png)
+
 
 <!---
 EliasXVIII/EliasXVIII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
