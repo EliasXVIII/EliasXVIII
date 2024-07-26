@@ -13,7 +13,7 @@
 
 - 👀 Me he dedicado desde hace ya 10 años en el mundo IT trabajando en empresas como Samsung - IBM entre otras como Técnico en sistemas..
 
-- 🌱 Actualmente me encuentro estudiando un BootCamp de 1000HS  para Desarrollador FullStack con herramientas como Python, MySql, MongoDB, FastAPI, Flask, JWT, Pytest, Javascript, Metodologias Agiles, GitHub, HTML, Css, VUE3 con las cuales trabajaremos en proyectos reales. 
+- 🌱 He finalizado con exito un BootCamp de 1000HS para Desarrollador FullStack en Peñascal F5 con herramientas como Python, MySql, MongoDB, FastAPI, Flask, JWT, Pytest, Javascript, Metodologias Agiles, GitHub, HTML, Css, VUE3 con las cuales hemos trabajado en proyectos reales y he realizado prácticas en AYESA en un proyecto en el cual hemos utilizado C#, Servicios como SOAP y WS Security para un servicio de transporte seguro de archivos y encriptados de los mismos. 
 
 - 📫 Pueden conocer mas sobre mi en Linkedin :arrow_right: https://www.linkedin.com/in/elias-javier-riquelme-b62655297/
 
